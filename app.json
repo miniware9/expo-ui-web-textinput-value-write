@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "expo-ui-web-textinput-value-write",
+    "slug": "expo-ui-web-textinput-value-write",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.letsgraphit.expouiwebtextinputvaluewrite"
+    },
+    "android": {
+      "package": "com.letsgraphit.expouiwebtextinputvaluewrite"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "experiments": {
+      "reactCompiler": true
+    }
+  }
+}
